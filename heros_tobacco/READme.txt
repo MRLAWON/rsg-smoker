@@ -1,38 +1,11 @@
 ###############################################################
 
-🌐- Français
+Original script is heros_tobacco vorp-core
 
-Ce SCRIPT vous est proposé par Heros, passionné avant toute chose,
-il se fait un devoir de répondre à vos diverses questions en cas 
-de problème.
+Iv converted it to work with rsg-core
 
-N'hésitez pas au besoin de le contacter via Discord: #Heros#5092
+put heros_tobacco in your resources folder and add heros_tobacco to you server.cfg after all other scripts.
 
-Ce script est une création de la marque: HerosTicWorld©
+add the items you want to shops.
 
-🌐- English
-
-This SCRIPT is brought to you by Heros, passionate above all else,
-he makes a point of answering your various questions in case
-any problem.
-
-
-This script is a creation of the brand: HerosTicWorld©
-
-###############################################################
-
-📋▶️ Installation:
-
-- Put the "heros_tobacco" folder inside your "resources" folder
-- Start the resource inside your "server.cfg" or "resources.cfg"
-
-Enjoy !
-
-⚠️
-(FR) ⛔️ Ne renommez pas la ressource sinon elle ne fonctionnera pas !
-(EN) ⛔️ Do not rename the resource or she will not work !
-
-🆘💭
-Any problem or any question ?
-
-Discord: #Heros#5092
+enjoy smoking cigars,cigarettes,pipes and chewing tobacco with prompts with the abilitie to still walk around
